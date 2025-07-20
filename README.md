@@ -1,1 +1,0 @@
-# CGModeling-FinalProject-SphereRing
